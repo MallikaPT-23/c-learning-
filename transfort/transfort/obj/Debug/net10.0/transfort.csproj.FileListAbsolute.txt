@@ -1,0 +1,14 @@
+C:\Users\malli\source\repos\c#learning\transfort\transfort\obj\Debug\net10.0\transfort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malli\source\repos\c#learning\transfort\transfort\obj\Debug\net10.0\transfort.AssemblyInfoInputs.cache
+C:\Users\malli\source\repos\c#learning\transfort\transfort\obj\Debug\net10.0\transfort.AssemblyInfo.cs
+C:\Users\malli\source\repos\c#learning\transfort\transfort\obj\Debug\net10.0\transfort.csproj.CoreCompileInputs.cache
+C:\Users\malli\source\repos\c#learning\transfort\transfort\bin\Debug\net10.0\transfort.exe
+C:\Users\malli\source\repos\c#learning\transfort\transfort\bin\Debug\net10.0\transfort.deps.json
+C:\Users\malli\source\repos\c#learning\transfort\transfort\bin\Debug\net10.0\transfort.runtimeconfig.json
+C:\Users\malli\source\repos\c#learning\transfort\transfort\bin\Debug\net10.0\transfort.dll
+C:\Users\malli\source\repos\c#learning\transfort\transfort\bin\Debug\net10.0\transfort.pdb
+C:\Users\malli\source\repos\c#learning\transfort\transfort\obj\Debug\net10.0\transfort.dll
+C:\Users\malli\source\repos\c#learning\transfort\transfort\obj\Debug\net10.0\refint\transfort.dll
+C:\Users\malli\source\repos\c#learning\transfort\transfort\obj\Debug\net10.0\transfort.pdb
+C:\Users\malli\source\repos\c#learning\transfort\transfort\obj\Debug\net10.0\transfort.genruntimeconfig.cache
+C:\Users\malli\source\repos\c#learning\transfort\transfort\obj\Debug\net10.0\ref\transfort.dll

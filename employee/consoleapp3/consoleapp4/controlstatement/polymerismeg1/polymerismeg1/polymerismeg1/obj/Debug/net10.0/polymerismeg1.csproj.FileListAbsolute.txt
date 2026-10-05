@@ -1,0 +1,4 @@
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymerismeg1\polymerismeg1\obj\Debug\net10.0\polymerismeg1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymerismeg1\polymerismeg1\obj\Debug\net10.0\polymerismeg1.AssemblyInfoInputs.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymerismeg1\polymerismeg1\obj\Debug\net10.0\polymerismeg1.AssemblyInfo.cs
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymerismeg1\polymerismeg1\obj\Debug\net10.0\polymerismeg1.csproj.CoreCompileInputs.cache

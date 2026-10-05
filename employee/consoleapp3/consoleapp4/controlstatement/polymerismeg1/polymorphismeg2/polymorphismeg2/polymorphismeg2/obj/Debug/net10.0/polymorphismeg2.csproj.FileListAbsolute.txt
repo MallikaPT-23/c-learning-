@@ -1,0 +1,14 @@
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\obj\Debug\net10.0\polymorphismeg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\obj\Debug\net10.0\polymorphismeg2.AssemblyInfoInputs.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\obj\Debug\net10.0\polymorphismeg2.AssemblyInfo.cs
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\obj\Debug\net10.0\polymorphismeg2.csproj.CoreCompileInputs.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\bin\Debug\net10.0\polymorphismeg2.exe
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\bin\Debug\net10.0\polymorphismeg2.deps.json
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\bin\Debug\net10.0\polymorphismeg2.runtimeconfig.json
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\bin\Debug\net10.0\polymorphismeg2.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\bin\Debug\net10.0\polymorphismeg2.pdb
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\obj\Debug\net10.0\polymorphismeg2.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\obj\Debug\net10.0\refint\polymorphismeg2.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\obj\Debug\net10.0\polymorphismeg2.pdb
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\obj\Debug\net10.0\polymorphismeg2.genruntimeconfig.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\polymerismeg1\polymorphismeg2\polymorphismeg2\polymorphismeg2\obj\Debug\net10.0\ref\polymorphismeg2.dll

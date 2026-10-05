@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malli\\source\\repos\\c#learning\\employee\\consoleapp3\\consoleapp4\\controlstatement\\polymerismeg1\\polymerismeg1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0D9193-FFDC-5C04-53F4-7E9197DE697F}|polymerismeg1\\polymerismeg1.csproj|c:\\users\\malli\\source\\repos\\c#learning\\employee\\consoleapp3\\consoleapp4\\controlstatement\\polymerismeg1\\polymerismeg1\\polymerismeg1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0D9193-FFDC-5C04-53F4-7E9197DE697F}|polymerismeg1\\polymerismeg1.csproj|solutionrelative:polymerismeg1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0D9193-FFDC-5C04-53F4-7E9197DE697F}|polymerismeg1\\polymerismeg1.csproj|c:\\users\\malli\\source\\repos\\c#learning\\employee\\consoleapp3\\consoleapp4\\controlstatement\\polymerismeg1\\polymerismeg1\\polymerismeg1\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0D9193-FFDC-5C04-53F4-7E9197DE697F}|polymerismeg1\\polymerismeg1.csproj|solutionrelative:polymerismeg1\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bank.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\repos\\c#learning\\employee\\consoleapp3\\consoleapp4\\controlstatement\\polymerismeg1\\polymerismeg1\\polymerismeg1\\bank.cs",
+              "RelativeDocumentMoniker": "polymerismeg1\\bank.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\repos\\c#learning\\employee\\consoleapp3\\consoleapp4\\controlstatement\\polymerismeg1\\polymerismeg1\\polymerismeg1\\bank.cs",
+              "RelativeToolTip": "polymerismeg1\\bank.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:58:23.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\repos\\c#learning\\employee\\consoleapp3\\consoleapp4\\controlstatement\\polymerismeg1\\polymerismeg1\\polymerismeg1\\Program.cs",
+              "RelativeDocumentMoniker": "polymerismeg1\\Program.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\repos\\c#learning\\employee\\consoleapp3\\consoleapp4\\controlstatement\\polymerismeg1\\polymerismeg1\\polymerismeg1\\Program.cs",
+              "RelativeToolTip": "polymerismeg1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:57:10.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

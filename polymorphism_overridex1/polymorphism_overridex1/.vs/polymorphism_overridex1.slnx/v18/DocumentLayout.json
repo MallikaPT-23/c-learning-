@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\polymorphism_overridex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF3A009-D21E-4955-988E-74AE1AB42CA8}|polymorphism_overridex1\\polymorphism_overridex1.csproj|c:\\users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\polymorphism_overridex1\\polymorphism_overridex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF3A009-D21E-4955-988E-74AE1AB42CA8}|polymorphism_overridex1\\polymorphism_overridex1.csproj|solutionrelative:polymorphism_overridex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF3A009-D21E-4955-988E-74AE1AB42CA8}|polymorphism_overridex1\\polymorphism_overridex1.csproj|c:\\users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\polymorphism_overridex1\\polymorphism_overridex1\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF3A009-D21E-4955-988E-74AE1AB42CA8}|polymorphism_overridex1\\polymorphism_overridex1.csproj|solutionrelative:polymorphism_overridex1\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF3A009-D21E-4955-988E-74AE1AB42CA8}|polymorphism_overridex1\\polymorphism_overridex1.csproj|c:\\users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\polymorphism_overridex1\\polymorphism_overridex1\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF3A009-D21E-4955-988E-74AE1AB42CA8}|polymorphism_overridex1\\polymorphism_overridex1.csproj|solutionrelative:polymorphism_overridex1\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "school.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\polymorphism_overridex1\\polymorphism_overridex1\\school.cs",
+              "RelativeDocumentMoniker": "polymorphism_overridex1\\school.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\polymorphism_overridex1\\polymorphism_overridex1\\school.cs",
+              "RelativeToolTip": "polymorphism_overridex1\\school.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:17:37.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "college.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\polymorphism_overridex1\\polymorphism_overridex1\\college.cs",
+              "RelativeDocumentMoniker": "polymorphism_overridex1\\college.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\polymorphism_overridex1\\polymorphism_overridex1\\college.cs",
+              "RelativeToolTip": "polymorphism_overridex1\\college.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:14:26.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\polymorphism_overridex1\\polymorphism_overridex1\\Program.cs",
+              "RelativeDocumentMoniker": "polymorphism_overridex1\\Program.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\polymorphism_overridex1\\polymorphism_overridex1\\Program.cs",
+              "RelativeToolTip": "polymorphism_overridex1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:07:37.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

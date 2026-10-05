@@ -1,0 +1,14 @@
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\bin\Debug\net10.0\datatypes.exe
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\bin\Debug\net10.0\datatypes.deps.json
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\bin\Debug\net10.0\datatypes.runtimeconfig.json
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\bin\Debug\net10.0\datatypes.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\bin\Debug\net10.0\datatypes.pdb
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\obj\Debug\net10.0\datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\obj\Debug\net10.0\datatypes.AssemblyInfoInputs.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\obj\Debug\net10.0\datatypes.AssemblyInfo.cs
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\obj\Debug\net10.0\datatypes.csproj.CoreCompileInputs.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\obj\Debug\net10.0\datatypes.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\obj\Debug\net10.0\refint\datatypes.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\obj\Debug\net10.0\datatypes.pdb
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\obj\Debug\net10.0\datatypes.genruntimeconfig.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\datatypes\datatypes\obj\Debug\net10.0\ref\datatypes.dll

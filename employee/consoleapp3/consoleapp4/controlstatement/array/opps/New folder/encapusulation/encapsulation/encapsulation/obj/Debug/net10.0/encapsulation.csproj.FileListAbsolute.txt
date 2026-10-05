@@ -1,0 +1,14 @@
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.AssemblyInfo.cs
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\bin\Debug\net10.0\encapsulation.exe
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\bin\Debug\net10.0\encapsulation.deps.json
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\bin\Debug\net10.0\encapsulation.runtimeconfig.json
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\bin\Debug\net10.0\encapsulation.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\bin\Debug\net10.0\encapsulation.pdb
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\obj\Debug\net10.0\refint\encapsulation.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.pdb
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.genruntimeconfig.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\encapsulation\encapsulation\obj\Debug\net10.0\ref\encapsulation.dll

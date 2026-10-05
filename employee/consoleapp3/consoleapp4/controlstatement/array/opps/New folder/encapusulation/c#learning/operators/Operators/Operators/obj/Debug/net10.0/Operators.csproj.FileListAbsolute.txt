@@ -1,0 +1,14 @@
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\bin\Debug\net10.0\Operators.exe
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\bin\Debug\net10.0\Operators.deps.json
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\bin\Debug\net10.0\Operators.runtimeconfig.json
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\bin\Debug\net10.0\Operators.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\bin\Debug\net10.0\Operators.pdb
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\obj\Debug\net10.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\obj\Debug\net10.0\Operators.AssemblyInfoInputs.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\obj\Debug\net10.0\Operators.AssemblyInfo.cs
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\obj\Debug\net10.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\obj\Debug\net10.0\Operators.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\obj\Debug\net10.0\refint\Operators.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\obj\Debug\net10.0\Operators.pdb
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\obj\Debug\net10.0\Operators.genruntimeconfig.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp4\controlstatement\array\opps\New folder\encapusulation\c#learning\operators\Operators\Operators\obj\Debug\net10.0\ref\Operators.dll

@@ -1,0 +1,14 @@
+C:\Users\malli\source\repos\c#learning\variable\variable\bin\Debug\net10.0\variable.exe
+C:\Users\malli\source\repos\c#learning\variable\variable\bin\Debug\net10.0\variable.deps.json
+C:\Users\malli\source\repos\c#learning\variable\variable\bin\Debug\net10.0\variable.runtimeconfig.json
+C:\Users\malli\source\repos\c#learning\variable\variable\bin\Debug\net10.0\variable.dll
+C:\Users\malli\source\repos\c#learning\variable\variable\bin\Debug\net10.0\variable.pdb
+C:\Users\malli\source\repos\c#learning\variable\variable\obj\Debug\net10.0\variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malli\source\repos\c#learning\variable\variable\obj\Debug\net10.0\variable.AssemblyInfoInputs.cache
+C:\Users\malli\source\repos\c#learning\variable\variable\obj\Debug\net10.0\variable.AssemblyInfo.cs
+C:\Users\malli\source\repos\c#learning\variable\variable\obj\Debug\net10.0\variable.csproj.CoreCompileInputs.cache
+C:\Users\malli\source\repos\c#learning\variable\variable\obj\Debug\net10.0\variable.dll
+C:\Users\malli\source\repos\c#learning\variable\variable\obj\Debug\net10.0\refint\variable.dll
+C:\Users\malli\source\repos\c#learning\variable\variable\obj\Debug\net10.0\variable.pdb
+C:\Users\malli\source\repos\c#learning\variable\variable\obj\Debug\net10.0\variable.genruntimeconfig.cache
+C:\Users\malli\source\repos\c#learning\variable\variable\obj\Debug\net10.0\ref\variable.dll

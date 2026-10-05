@@ -1,0 +1,14 @@
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\bin\Debug\net10.0\polymorphism_overridex1.exe
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\bin\Debug\net10.0\polymorphism_overridex1.deps.json
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\bin\Debug\net10.0\polymorphism_overridex1.runtimeconfig.json
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\bin\Debug\net10.0\polymorphism_overridex1.dll
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\bin\Debug\net10.0\polymorphism_overridex1.pdb
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\obj\Debug\net10.0\polymorphism_overridex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\obj\Debug\net10.0\polymorphism_overridex1.AssemblyInfoInputs.cache
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\obj\Debug\net10.0\polymorphism_overridex1.AssemblyInfo.cs
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\obj\Debug\net10.0\polymorphism_overridex1.csproj.CoreCompileInputs.cache
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\obj\Debug\net10.0\polymorphism_overridex1.dll
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\obj\Debug\net10.0\refint\polymorphism_overridex1.dll
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\obj\Debug\net10.0\polymorphism_overridex1.pdb
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\obj\Debug\net10.0\polymorphism_overridex1.genruntimeconfig.cache
+C:\Users\malli\source\repos\c#learning\polymorphism_overridex1\polymorphism_overridex1\polymorphism_overridex1\obj\Debug\net10.0\ref\polymorphism_overridex1.dll

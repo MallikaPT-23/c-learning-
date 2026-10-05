@@ -1,0 +1,14 @@
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\bin\Debug\net10.0\consoleapp3.exe
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\bin\Debug\net10.0\consoleapp3.deps.json
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\bin\Debug\net10.0\consoleapp3.runtimeconfig.json
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\bin\Debug\net10.0\consoleapp3.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\bin\Debug\net10.0\consoleapp3.pdb
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\obj\Debug\net10.0\consoleapp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\obj\Debug\net10.0\consoleapp3.AssemblyInfoInputs.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\obj\Debug\net10.0\consoleapp3.AssemblyInfo.cs
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\obj\Debug\net10.0\consoleapp3.csproj.CoreCompileInputs.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\obj\Debug\net10.0\consoleapp3.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\obj\Debug\net10.0\refint\consoleapp3.dll
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\obj\Debug\net10.0\consoleapp3.pdb
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\obj\Debug\net10.0\consoleapp3.genruntimeconfig.cache
+C:\Users\malli\source\repos\c#learning\employee\consoleapp3\consoleapp3\consoleapp3\obj\Debug\net10.0\ref\consoleapp3.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "polymorphism_overridex1/1.0.0": {
+        "runtime": {
+          "polymorphism_overridex1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "polymorphism_overridex1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

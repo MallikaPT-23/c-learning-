@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="consoleapp4/consoleapp4.csproj" />
+  <Project Path="datatypes/datatypes/datatypes.csproj" />
+  <Project Path="typecasting/typecasting.csproj" />
+</Solution>

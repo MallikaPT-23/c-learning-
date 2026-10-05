@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\transfort\\transfort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFCFAF3-5F61-2109-1AA4-BA599F40645F}|transfort\\transfortverification.csproj|c:\\users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\transfort\\transfort\\transfort\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFCFAF3-5F61-2109-1AA4-BA599F40645F}|transfort\\transfortverification.csproj|solutionrelative:transfort\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "train.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\transfort\\transfort\\transfort\\train.cs",
+              "RelativeDocumentMoniker": "transfort\\train.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\repos\\c#learning\\polymorphism_overridex1\\transfort\\transfort\\transfort\\train.cs",
+              "RelativeToolTip": "transfort\\train.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:36:53.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
